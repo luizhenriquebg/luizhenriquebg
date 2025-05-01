@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**luizhenriquebg/luizhenriquebg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Luiz Henrique, sou um Programador Front End, atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado em Javascript e React.
+<br>
+<br>
+CONTATO:
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/luiz-henrique-a51530327/">
+<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+[![Luiz Stats](https://github-readme-stats.vercel.app/api?username=luizhenriquebg)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizhenriquebg)](https://github.com/anuraghazra/github-readme-stats)
