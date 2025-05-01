@@ -5,7 +5,7 @@ Eu sou o Luiz Henrique, sou um Programador Front End, atualmente estou aprendend
 <br>
 CONTATO:
 
-<a href="https://www.linkedin.com/in/luiz-henrique-a51530327/">
+<a href="https://www.linkedin.com/in/luiz-henrique">
 <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
 </a>
 
