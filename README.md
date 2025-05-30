@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou o Luiz Henrique, sou um Programador Front End, atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado em Javascript e React.
+Eu sou o Luiz Henrique, sou um estudande, em Front-End e atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado em Javascript e React.
 <br>
 <br>
 CONTATO:
