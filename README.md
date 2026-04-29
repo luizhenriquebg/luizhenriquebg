@@ -1,45 +1,41 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
+  <a href="www.linkedin.com/in/luiz-henriquee1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="luizhenriquebgomes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
-<p align="left">Olá! Me chamo Luiz Henrique 👋
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou focado no desenvolvimento Back-End com Java.
-
-Estou estudando e desenvolvendo projetos para fortalecer minha base em lógica de programação, orientação a objetos e construção de aplicações. Aqui você vai encontrar projetos que representam minha evolução e prática constante na área.
-
-Meu objetivo é crescer como desenvolvedor, evoluindo um passo de cada vez e compartilhando essa jornada através do código 🚀</p>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
-<h2 align="left">Language and tools</h2>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Olá! Me chamo Luiz Henrique <br>Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou focado no desenvolvimento Back-End com Java.<br><br>Estou estudando e desenvolvendo projetos para fortalecer minha base em lógica de programação, orientação a objetos e construção de aplicações. Aqui você vai encontrar projetos que representam minha evolução e prática constante na área.<br><br>Meu objetivo é crescer como desenvolvedor, evoluindo um passo de cada vez e compartilhando essa jornada através do código 🚀</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
 
-<h2 align="left">Contato</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
