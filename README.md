@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">Olá! me chamo Luiz Henrique, cursei Analise e desenvolvimento de sistemas, estou focado em Front-End e atualmente estou aprendendo e criando projetos com HTML, CSS, Javascript e iniciando o aprendizado React. Tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução na minha trajetória em tecnologia</p>
+<p align="left">Olá! Me chamo Luiz Henrique 👋
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou focado no desenvolvimento Back-End com Java.
+
+Estou estudando e desenvolvendo projetos para fortalecer minha base em lógica de programação, orientação a objetos e construção de aplicações. Aqui você vai encontrar projetos que representam minha evolução e prática constante na área.
+
+Meu objetivo é crescer como desenvolvedor, evoluindo um passo de cada vez e compartilhando essa jornada através do código 🚀</p>
 
 ###
 
