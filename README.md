@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo Luiz Henrique <br>Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou focado no desenvolvimento Full Stack com Java.<br><br>Estou estudando e desenvolvendo projetos para fortalecer minha base em lógica de programação, orientação a objetos e construção de aplicações. Aqui você vai encontrar projetos que representam minha evolução e prática constante na área.<br><br>Meu objetivo é crescer como desenvolvedor, evoluindo um passo de cada vez e compartilhando essa jornada através do código 🚀</p>
+<p align="left">Olá! Me chamo Luiz Henrique <br>Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou focado no desenvolvimento Full Stack.<br><br>Estou estudando e desenvolvendo projetos para fortalecer minha base em lógica de programação, orientação a objetos e construção de aplicações. Aqui você vai encontrar projetos que representam minha evolução e prática constante na área.<br><br>Meu objetivo é crescer como desenvolvedor, evoluindo um passo de cada vez e compartilhando essa jornada através do código 🚀</p>
 
 ###
 
