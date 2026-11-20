@@ -1,22 +1,20 @@
 <div align="center">
-  <a href="www.linkedin.com/in/luiz-henriquee1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <h1>Luiz Henrique</h1>
+  <p><b>Desenvolvedor Back-End | Java • Spring • APIs REST </b></p>
+  <p>
+    <a href="https://www.linkedin.com/in/luiz-henriquee1">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
+### 👤 Sobre Mim
 
 <p align="left">Olá! Me chamo Luiz Henrique <br>Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou focado no desenvolvimento Full Stack.<br><br>Estou estudando e desenvolvendo projetos para fortalecer minha base em lógica de programação, orientação a objetos e construção de aplicações. Aqui você vai encontrar projetos que representam minha evolução e prática constante na área.<br><br>Meu objetivo é crescer como desenvolvedor, evoluindo um passo de cada vez e compartilhando essa jornada através do código 🚀</p>
 
-###
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 
